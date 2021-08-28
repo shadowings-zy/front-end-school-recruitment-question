@@ -58,7 +58,7 @@ console.log(pattern instanceof RegExp) // 变量 pattern 是 RegExp 吗？
 ```
 
 ### Q：js 的原型链你是如何理解的？
-![原型链](./images/prototype.png)
+![原型链](http://www.shadowingszy.top/images/prototype.png)
 
 只要是对象就有原型, 并且原型也是对象, 因此只要定义了一个对象, 那么就可以找到他的原型, 如此反复, 就可以构成一个对象的序列, 这个结构就被成为原型链。
 

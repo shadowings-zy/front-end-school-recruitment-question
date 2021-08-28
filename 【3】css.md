@@ -4,7 +4,7 @@
 
 ### Q：请简述一下 CSS 盒模型？
 
-![盒模型](./images/box.png)
+![盒模型](http://www.shadowingszy.top/images/box.png)
 
 W3C 模式：盒子宽=width+padding+border+margin
 怪异模式：盒子宽=width+margin
@@ -95,7 +95,7 @@ inline-block（融合行内于块级）:
 容器拥有两根隐形的轴，水平的主轴（main axis），和竖直的交叉轴。
 此外，需注意使用 flex 容器内元素，即 flex item 的 float，clear、vertical-align 属性将失效。
 
-![盒模型](./images/flex.png)
+![盒模型](http://www.shadowingszy.top/images/flex.png)
 
 flex 的各种属性：
 

@@ -67,7 +67,7 @@
 ## 2、HTML 事件
 
 ### Q：描述一下 HTML 的事件模型？事件捕获/事件冒泡指的是？
-![事件模型](./images/event.png)
+![事件模型](http://www.shadowingszy.top/images/event.png)
 
 当页面触发一个事件的时候，浏览器主要做了三个阶段的事情，分别是：
 1、捕获事件阶段
